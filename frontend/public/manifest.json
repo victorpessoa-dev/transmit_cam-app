@@ -1,0 +1,22 @@
+{
+    "name": "Transmit Cam SRT",
+    "short_name": "Cam SRT",
+    "description": "Aplicativo para transmissão de câmera via SRT",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#0ea5e9",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/public/web-app-manifest-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/public/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
